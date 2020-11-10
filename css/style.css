@@ -52,6 +52,12 @@ code ,pre {
     border-radius: 5px;
 }
 
+.hidden {
+visibility: hidden;
+height: 0;
+}
+
+
 /* Navbar */
 .navbar {
     background-color: var(--primary-color);
